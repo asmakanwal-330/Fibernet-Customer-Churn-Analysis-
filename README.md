@@ -1,5 +1,5 @@
 
-## 📊 FiberNet Customer Churn Analysis – Pakistan
+## 📊 FiberNet Customer Churn Analysis and Retension – Pakistan
 
 A Power BI dashboard project to uncover churn patterns and early-life churn (ELC) behavior for FiberNet Pakistan — a leading fiber-optic ISP. This case study helps identify high-risk segments and suggests actionable strategies to reduce customer churn and improve retention.
 
